@@ -1,0 +1,220 @@
+=== Text Analysis ===
+Total paragraphs : 7
+Grand total words: 805
+
+  Paragraph 1
+  Sentences: 5
+    Sentence 1:
+      Text       : In 1952 New York City, Marty Mauser works as a shoe salesman...
+      Word counts: a:2, also:1, as:2, at:1, city:1, competing:1, his:1, in:1, marty:1, mauser:1, murray:1, new:1, player:1, professionally:1, s:1, salesman:1, shoe:1, shop:1, table:1, tennis:1, uncle:1, while:1, works:1, york:1
+      Total words: 26
+
+    Sentence 2:
+      Text       :  Marty dreams of winning the British Open and defeating defe...
+      Word counts: american:1, and:1, attention:1, bring:1, british:1, béla:1, champion:1, defeating:1, defending:1, dreams:1, kletzki:1, marty:1, of:1, open:1, sport:1, the:2, to:2, winning:1
+      Total words: 20
+
+    Sentence 3:
+      Text       :  He also pitches selling orange novelty table tennis balls b...
+      Word counts: affair:1, also:1, an:1, and:2, balls:1, bearing:1, businessman:1, childhood:1, dion:2, father:1, friend:2, having:1, he:1, his:3, is:1, married:1, mizler:1, name:1, novelty:1, orange:1, pitches:1, rachel:1, s:1, selling:1, table:1, tennis:1, to:1, with:1
+      Total words: 33
+
+    Sentence 4:
+      Text       :  Marty demands $700 for his London trip, but Murray refuses,...
+      Word counts: and:1, but:1, citing:1, concern:1, demands:1, for:2, him:1, his:2, job:1, keep:1, london:1, marty:2, mother:1, murray:1, refuses:1, s:1, to:1, trip:1, wanting:1
+      Total words: 22
+
+    Sentence 5:
+      Text       :  After hours, Marty robs the shop's vault by threatening his...
+      Word counts: after:1, at:1, by:1, coworker:1, gunpoint:1, his:1, hours:1, lloyd:1, marty:1, robs:1, s:1, shop:1, the:1, threatening:1, vault:1
+      Total words: 15
+
+
+  Paragraph 2
+  Sentences: 4
+    Sentence 1:
+      Text       : In London, Marty, unhappy with the players' barracks, instea...
+      Word counts: actress:1, and:1, at:1, barracks:1, former:1, he:1, her:1, hotel:1, husband:1, in:1, instead:1, kay:1, london:1, magnate:1, marty:1, meets:1, milton:1, pen:1, players:1, ritz:1, rockwell:1, seduces:1, stays:1, stone:1, the:2, unhappy:1, wealthy:1, where:1, with:1
+      Total words: 30
+
+    Sentence 2:
+      Text       :  Marty defeats Kletzki in the semi-finals but loses the fina...
+      Word counts: a:2, but:1, deaf:1, defeats:1, endo:1, final:1, finals:1, in:1, japanese:1, kletzki:1, koto:1, loses:1, marty:1, player:1, racket:1, semi:1, sponge:1, the:2, to:1, using:1
+      Total words: 22
+
+    Sentence 3:
+      Text       :  Months later, Rockwell offers Marty an exhibition match aga...
+      Word counts: against:1, an:1, appease:1, audiences:1, be:1, before:1, but:1, championships:1, declines:1, endo:1, exhibition:1, expected:1, he:1, in:1, japanese:1, later:1, learning:1, marty:2, match:2, months:1, offers:1, rockwell:1, rudely:1, the:2, throw:1, to:2, tokyo:1, upon:1, world:1, would:1
+      Total words: 34
+
+    Sentence 4:
+      Text       :  An offended Rockwell insults Marty, saying he's not a pro-p...
+      Word counts: a:3, act:1, an:1, as:1, but:1, for:1, globetrotters:1, harlem:1, he:2, insults:1, internationally:1, is:1, kletzki:1, marty:1, not:1, novelty:1, offended:1, performer:1, player:1, pro:1, rockwell:1, s:1, saying:1, since:1, the:1, touring:1, vaudeville:1, with:1
+      Total words: 31
+
+
+  Paragraph 3
+  Sentences: 7
+    Sentence 1:
+      Text       : Back in New York, Marty is arrested for stealing from Murray...
+      Word counts: arrested:1, back:1, but:1, escapes:1, for:1, from:1, in:1, is:1, marty:1, murray:1, new:1, stealing:1, york:1
+      Total words: 13
+
+    Sentence 2:
+      Text       :  He reconnects with Rachel, who is pregnant and who claims t...
+      Word counts: and:1, baby:1, claims:1, he:1, his:1, is:2, pregnant:1, rachel:1, reconnects:1, the:1, who:2, with:1
+      Total words: 14
+
+    Sentence 3:
+      Text       :  While staying in a run-down hotel with his friend Wally, a ...
+      Word counts: a:3, association:1, banned:1, been:1, championship:1, discovers:1, down:1, driver:1, expensing:1, fine:1, for:1, fraudulently:1, friend:1, from:1, has:1, he:2, his:2, hotel:1, in:1, international:1, itta:1, marty:1, pays:1, ritz:1, run:1, stay:1, staying:1, table:1, taxi:1, tennis:1, the:2, to:1, unless:1, wally:1, while:1, with:1, world:1
+      Total words: 42
+
+    Sentence 4:
+      Text       :  Marty's bathtub collapses through the floor, injuring mobst...
+      Word counts: a:1, bathtub:1, collapses:1, dog:1, ezra:1, floor:1, his:1, injuring:1, marty:2, mishkin:1, mobster:1, moses:1, pays:1, s:1, take:1, the:1, through:1, to:2, veterinarian:1, who:1
+      Total words: 22
+
+    Sentence 5:
+      Text       :  Marty instead hustles patrons at a New Jersey bowling alley...
+      Word counts: a:1, alley:1, at:1, bowling:1, hustles:1, instead:1, jersey:1, marty:1, money:1, new:1, patrons:1, raise:1, the:1, to:1, wally:1, with:1
+      Total words: 16
+
+    Sentence 6:
+      Text       :  The bowlers later attack them at a gas station but Marty an...
+      Word counts: a:1, and:2, at:1, attack:1, bowlers:1, but:1, damaging:1, escape:1, fire:1, gas:1, later:1, marty:1, on:1, setting:1, station:2, taxi:1, the:3, them:1, wally:1
+      Total words: 23
+
+    Sentence 7:
+      Text       :  Moses runs away during the scuffle....
+      Word counts: away:1, during:1, moses:1, runs:1, scuffle:1, the:1
+      Total words: 6
+
+
+  Paragraph 4
+  Sentences: 8
+    Sentence 1:
+      Text       : Rockwell returns to New York, having financed a play to rela...
+      Word counts: a:1, career:1, financed:1, having:1, kay:1, new:1, play:1, relaunch:1, returns:1, rockwell:1, s:1, to:2, york:1
+      Total words: 14
+
+    Sentence 2:
+      Text       :  After having sex with Kay, Marty steals her necklace, but a...
+      Word counts: after:2, an:1, attempt:1, but:1, costume:1, having:1, he:1, her:1, is:1, it:2, jewelry:1, kay:1, learns:1, marty:1, necklace:1, pawn:1, sex:1, steals:1, to:1, with:1
+      Total words: 22
+
+    Sentence 3:
+      Text       :  Rachel comes to Marty with a black eye claiming her husband...
+      Word counts: a:1, assault:1, beaten:1, black:1, claiming:1, comes:1, eye:1, has:1, her:2, him:1, husband:1, ira:1, marty:2, prompting:1, rachel:1, to:2, with:1
+      Total words: 20
+
+    Sentence 4:
+      Text       :  Marty and Rachel stay with Dion, who reveals he had produce...
+      Word counts: and:1, balls:1, but:1, dion:1, failed:1, follow:1, had:1, he:1, marty:2, novelty:1, produced:1, rachel:1, reveals:1, stay:1, the:1, to:1, up:1, who:1, with:1
+      Total words: 20
+
+    Sentence 5:
+      Text       :  Marty and Rachel steal Dion's car and attempt to find Moses...
+      Word counts: after:1, an:1, and:2, antisemitic:1, at:1, attempt:1, being:1, but:1, by:1, car:1, dion:1, extort:1, farmer:1, find:1, flee:1, from:1, has:1, in:1, marty:1, mishkin:1, money:1, moses:2, rachel:1, s:1, shot:1, steal:1, taken:1, to:2, who:1
+      Total words: 32
+
+    Sentence 6:
+      Text       :  Dion throws them out for stealing and damaging his car and ...
+      Word counts: and:2, balls:1, car:1, damaging:1, dion:1, discards:1, for:1, his:1, novelty:1, out:1, stealing:1, the:1, them:1, throws:1
+      Total words: 15
+
+    Sentence 7:
+      Text       :  Marty learns Rachel faked her injury to manipulate him and ...
+      Word counts: and:1, faked:1, her:2, him:1, injury:1, learns:1, leaves:1, manipulate:1, marty:1, rachel:1, to:1
+      Total words: 12
+
+    Sentence 8:
+      Text       :  Rachel tells her husband Ira the baby is not his, and he th...
+      Word counts: and:1, baby:1, he:1, her:2, his:1, house:1, husband:1, ira:1, is:1, not:1, of:1, out:1, rachel:1, tells:1, the:2, throws:1
+      Total words: 18
+
+
+  Paragraph 5
+  Sentences: 5
+    Sentence 1:
+      Text       : At the opening of Kay's play, Marty apologizes for stealing ...
+      Word counts: apologizes:1, at:1, for:1, her:1, jewelry:1, kay:1, marty:1, of:1, opening:1, play:1, s:1, stealing:1, the:1
+      Total words: 13
+
+    Sentence 2:
+      Text       :  Though she sees through him, Kay tells Marty to meet her th...
+      Word counts: a:1, and:1, central:1, fine:1, gives:1, her:1, him:2, his:1, in:1, kay:1, marty:1, meet:1, necklace:1, night:1, park:1, pay:1, sees:1, she:2, tells:1, that:1, though:1, through:1, to:2, travel:1, valuable:1, where:1
+      Total words: 29
+
+    Sentence 3:
+      Text       :  Marty and Kay begin having sex in the park but are soon cau...
+      Word counts: and:2, are:1, begin:1, bribe:1, but:1, by:1, caught:1, having:1, in:1, into:1, kay:1, marty:1, necklace:1, officers:1, park:1, police:1, releasing:1, sex:1, soon:1, the:3, them:1, to:1, use:1
+      Total words: 26
+
+    Sentence 4:
+      Text       :  Kay offers him another necklace, but receives a poor review...
+      Word counts: a:1, afterparty:1, and:1, another:1, breaks:1, but:1, down:1, during:1, for:1, her:1, him:1, indisposed:1, kay:1, leaving:1, necklace:1, offers:1, play:1, poor:1, receives:1, review:1, the:2
+      Total words: 22
+
+    Sentence 5:
+      Text       :  Marty then begs Rockwell to revive the Tokyo exhibition off...
+      Word counts: a:1, agrees:1, and:1, begs:1, condition:1, exhibition:1, humiliating:1, marty:2, offer:1, on:1, public:1, revive:1, rockwell:2, spanking:1, submit:1, that:1, the:2, then:1, to:2, tokyo:1
+      Total words: 24
+
+
+  Paragraph 6
+  Sentences: 5
+    Sentence 1:
+      Text       : Before Marty leaves, he and Rachel are kidnapped by Mishkin ...
+      Word counts: after:1, and:1, another:1, are:1, attempts:1, before:1, by:1, con:1, dog:1, he:1, him:1, kidnapped:1, leaves:1, marty:1, mishkin:1, rachel:2, to:1, with:1
+      Total words: 19
+
+    Sentence 2:
+      Text       :  Mishkin forces them to take him to the farmhouse where Mose...
+      Word counts: farmhouse:1, forces:1, found:1, him:1, mishkin:1, moses:1, take:1, the:1, them:1, to:2, was:1, where:1
+      Total words: 13
+
+    Sentence 3:
+      Text       :  A shootout leaves the farmer, Mishkin, and his men dead, an...
+      Word counts: a:1, and:2, dead:1, farmer:1, his:1, leaves:1, men:1, mishkin:1, rachel:1, shootout:1, the:1, wounded:1
+      Total words: 13
+
+    Sentence 4:
+      Text       :  Marty discovers the money is mostly worthless clippings....
+      Word counts: clippings:1, discovers:1, is:1, marty:1, money:1, mostly:1, the:1, worthless:1
+      Total words: 8
+
+    Sentence 5:
+      Text       :  He takes Rachel to the hospital as she goes into premature ...
+      Word counts: and:1, as:1, for:1, goes:1, he:1, hospital:1, into:1, labor:1, leaves:1, premature:1, rachel:1, she:1, takes:1, the:1, then:1, to:1, tokyo:1
+      Total words: 17
+
+
+  Paragraph 7
+  Sentences: 5
+    Sentence 1:
+      Text       : In Japan, Marty is told he is too late to enter the World Ch...
+      Word counts: championship:1, enter:1, even:1, fine:1, he:2, his:1, if:1, in:1, is:2, japan:1, late:1, marty:1, pays:1, the:1, to:1, told:1, too:1, world:1
+      Total words: 20
+
+    Sentence 2:
+      Text       :  He loses the exhibition match as planned, but when Rockwell...
+      Word counts: a:3, agrees:1, and:1, announces:1, as:1, but:1, by:1, demands:1, endo:1, exhibition:1, further:1, he:1, him:2, humiliate:1, kiss:1, loses:1, making:1, marty:2, match:2, narrowly:1, onstage:1, pig:1, planned:1, plans:1, real:1, rematch:1, rockwell:1, sham:1, that:1, the:2, to:2, was:1, when:1, which:1, wins:1
+      Total words: 42
+
+    Sentence 3:
+      Text       :  Refused passage home by Rockwell, Marty flies back with U....
+      Word counts: back:1, by:1, flies:1, home:1, marty:1, passage:1, refused:1, rockwell:1, u:1, with:1
+      Total words: 10
+
+    Sentence 4:
+      Text       : S....
+      Word counts: s:1
+      Total words: 1
+
+    Sentence 5:
+      Text       :  Army soldiers, reunites with his mother at the hospital, co...
+      Word counts: a:1, and:1, army:1, at:1, breaks:1, confesses:1, down:1, his:3, hospital:1, in:1, love:1, meeting:1, mother:1, newborn:1, rachel:1, recovering:1, reunites:1, soldiers:1, son:1, tears:1, the:1, to:1, upon:1, with:1
+      Total words: 26
+
+
